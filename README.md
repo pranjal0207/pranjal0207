@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pranjal Rane</h1>
 <h3 align="center">MS Computer Science student at Northeastern University, Boston, MA</h3>
 
-- 🔭 I’m currently working on [Video Streaming Service](https://github.com/harsh4799/VideoStreamingAws)
+- 🔭 I’m currently working on [StreamCraft - Video Streaming Service](https://github.com/pranjal0207/stream-craft-client)
 
 - 🌱 I’m currently learning **Cloud Technologies (AWS, Azure) and Large Language Model implementation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranjal0207](https://github.com/pranjal0207)
+- 👨‍💻 All of my projects are available [here](https://github.com/pranjal0207)
 
 - 💬 Ask me about **React, Node.js, AWS**
 
 - 📫 How to reach me **pranjal.rane0207@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vCZRX3FS1gQAh9heqE86gcIiFqDkzSH/view?usp=sharing](https://drive.google.com/file/d/1-vCZRX3FS1gQAh9heqE86gcIiFqDkzSH/view?usp=sharing)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1-vCZRX3FS1gQAh9heqE86gcIiFqDkzSH/view?usp=sharing](https://drive.google.com/file/d/1mQTTGqSfRKdIIJGfvzj83txrzfduLVes/view))
 
 - ⚡ Fun fact **I am a huge soccer fan. Reach me out if you want to colaborate on a soccer related project :)**
 
