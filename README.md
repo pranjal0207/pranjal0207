@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranjal.rane0207@gmail.com**
 
-- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1-vCZRX3FS1gQAh9heqE86gcIiFqDkzSH/view?usp=sharing](https://drive.google.com/file/d/1mQTTGqSfRKdIIJGfvzj83txrzfduLVes/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1mQTTGqSfRKdIIJGfvzj83txrzfduLVes/view)
 
 - ⚡ Fun fact **I am a huge soccer fan. Reach me out if you want to colaborate on a soccer related project :)**
 
