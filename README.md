@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranjal Rane</h1>
 <h3 align="center">MS Computer Science student at Northeastern University, Boston, MA</h3>
 
-- 🔭 I’m currently working on [StreamCraft - Video Streaming Service](https://github.com/pranjal0207/stream-craft-client)
+- 🔭 I’m currently working on [Real-Time Document Collaboration Service](https://github.com/pranjal0207/collaborative-doc-platform)
 
-- 🌱 I’m currently learning **Cloud Technologies (AWS, Azure) and Large Language Model implementation**
+- 🌱 I’m currently learning **Go (Programming Language), Protocol Buffers, Cloud Technologies (AWS, Azure) and Large Language Model implementation**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/pranjal0207)
 
-- 💬 Ask me about **React, Node.js, AWS**
+- 💬 Ask me about **Backend Development, Java, Go, React, Node.js, AWS and Football(or Soccer XD)**
 
 - 📫 How to reach me **pranjal.rane0207@gmail.com**
 
